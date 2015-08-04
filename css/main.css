@@ -1,0 +1,26 @@
+@import url(http://fonts.googleapis.com/css?family=Oswald:700,300,400);
+html,
+body {
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  width: 100%; }
+
+.container {
+  border: 2px solid black;
+  margin: 0 auto;
+  position: relative;
+  width: 1000px; }
+  .container .vis {
+    border: 1px solid red;
+    position: absolute;
+    width: 100%; }
+    .container .vis .vis-hours {
+      font-family: 'Oswald', sans-serif;
+      font-size: 300%;
+      font-weight: 700; }
+
+.add-text {
+  font-weight: 300; }
+
+/*# sourceMappingURL=main.css.map */
